@@ -1,6 +1,8 @@
 console.log("Hello I am coming home...")
 console.log("Ma dherai Khusi xu..")
-console.log("I am going back from the home...")
+function greet(params) {
+  console.log("Namaste")
+}
 
 let a = 10
 let b = 2
