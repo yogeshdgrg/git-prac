@@ -6,3 +6,7 @@ let b = 2
 
 const mul = a * b
 console.log("The multiplication of a and b is : ", mul)
+
+console.log(
+  "Hey Good to hear that You are the most amazing person I have ever seen in my life"
+)
